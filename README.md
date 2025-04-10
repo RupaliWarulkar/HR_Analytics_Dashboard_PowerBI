@@ -1,5 +1,5 @@
 # HR_Analytics_Dashboard_PowerBI
-This HR Analytics Dashboard provides deep insights into employee attrition, helping organizations understand key trends across job roles, salary, tenure, age, and education for smarter decision-making.
+This dashboard is designed to help HR teams and business leaders make informed, data-driven decisions to improve employee retention, engagement and workforce planning. By leveraging DAX calculations, Power Query transformations and interactive visuals, it provides a deep dive into key HR metrics to identify trends and optimize strategies.
 
 # Dataset
 * Total Employees: 1,470
