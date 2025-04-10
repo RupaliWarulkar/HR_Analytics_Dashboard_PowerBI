@@ -8,10 +8,13 @@ This HR Analytics Dashboard provides deep insights into employee attrition, help
 * Average Tenure: 7 years
 
 # Dashboard Features
-🚻 Attrition by Gender, Age & Education
-💼 Attrition by Job Role, Department & Salary Bands
-📉 Attrition Trend Over Years
-💰 Salary Distribution Analysis
-🧠 Insightful Visualizations with Interactive Filters
+🚻 Attrition by Gender, Age & Education <br />
+💼 Attrition by Job Role, Department & Salary Bands <br />
+📉 Attrition Trend Over Years <br />
+💰 Salary Distribution Analysis <br />
+🧠 Insightful Visualizations with Interactive Filters <br />
+
+# Dashboard Preview
+![Image](https://github.com/user-attachments/assets/cc808c8b-39ab-4eea-9dba-253a7c7b6f50)
 
 
