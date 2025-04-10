@@ -17,4 +17,28 @@ This HR Analytics Dashboard provides deep insights into employee attrition, help
 # Dashboard Preview
 ![Image](https://github.com/user-attachments/assets/cc808c8b-39ab-4eea-9dba-253a7c7b6f50)
 
+# Key Insights
+
+## Attrition Analysis
+* **Highest Attrition by Age Group:** 26-35 years <br />
+* **Highest Attrition by Salary Slab:** Employees earning <₹5K <br />
+* **Top Roles with High Attrition:** Laboratory Technicians, Sales Executives <br />
+* **Higher Attrition by Gender:** Male Employees <br />
+
+# Files in This Repository
+* **HR_ANALYTICS_DASHBOARD.pbix** - Power BI Dashboard file <br />
+* **HR_Analytics.csv** - Dataset used for analysis <br />
+* **HR_Analytics_Dashboard.pdf** - Detailed 2-page analysis report <br />
+
+# How to Use
+1.Open the HR_ANALYTICS_DASHBOARD.pbix file in Power BI. <br />
+2.Explore the visualizations and insights. <br />
+3.Refer to HR_Analytics_Analysis.pdf for a detailed breakdown of findings. <br />
+
+# Recommendations
+✅ Improve Retention for 26-35 Age Group <br />
+✅ Salary Adjustments for Low-Paid Employees <br />
+✅ Retention Efforts in Sales & Technical Roles <br />
+✅ Strengthen Employee Engagement in First 5 Years <br />
+
 
