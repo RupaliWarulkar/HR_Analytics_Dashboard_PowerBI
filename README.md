@@ -1,7 +1,7 @@
 # HR_Analytics_Dashboard_PowerBI
 This dashboard is designed to help HR teams and business leaders make informed, data-driven decisions to improve employee retention, engagement and workforce planning. By leveraging DAX calculations, Power Query transformations and interactive visuals, it provides a deep dive into key HR metrics to identify trends and optimize strategies.
 
-# Dataset
+# Key Features of the Dashboard
 * Total Employees: 1,470
 * Attrition Rate: 16.1%
 * Average Salary: ₹6.5K
